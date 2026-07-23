@@ -1,42 +1,34 @@
-# 🇹🇷 Türkçe Dil Yaması
+# 🇹🇷 Türkçe Dil Yaması (Otomatik Kurulum)
 
-Uyumlu klavye ve mouse yazılımları için hazırlanmış Türkçe dil yaması.
+Uyumlu klavye ve mouse yazılımları için hazırlanmış **otomatik Türkçe dil yaması**.
 
 ---
 
 ## 🎮 Desteklenen Cihazlar
 
-- Redragon K616 Fizz Pro
-- Redragon K617 RGB
+- Redragon K616 Fizz Pro  
+- Redragon K617 Fizz
 
 ---
 
-## ⚙️ Kurulum
+## ⚙️ Kurulum (Otomatik)
 
-Driver’ın kurulu olduğu klasöre gidin  
-(Örn: `C:\Program Files (x86)\Redragon...`)
-
-`Cfg` dosyasını Not Defteri ile açın ve aşağıdaki satırı bulun ve satırın en sonunua bu kodu ekleyin: `Lang3=Turkce,tr`
-
-```ini
-Lang1=English,en
-Lang2=简体中文,sc
-Lang3=Turkce,tr
-```
-
-Dosyayı kaydedip kapatın.
+1. `oto_kur.bat` dosyasını **yönetici olarak çalıştırın**
+2. Program sizden kurulu olduğu klasörü isteyecek  
+   (Örn: `C:\Program Files (x86)\Redragon K616-RGB`)
+3. Gerekli işlemler otomatik olarak yapılacaktır
 
 ---
 
-### 2) Dil Dosyasını Yükleme
 
-Tekrardan Driver’ın kurulu olduğu konuma gidin: (Örn: `C:\Program Files (x86)\Redragon...`)
-Bu sefer `Text` dosyasını açın. İndirdiğiniz `tr` klasörünü kopyalayın
-
----
-
-### ⚠️ Notlar
+## ⚠️ Notlar
 
 - Resmi bir yama değildir  
 - Bazı metinlerde taşma olabilir  
-- [Hata bulduğunuz takdirde bize bildirin] 
+- Program yönetici izni gerektirir  
+
+---
+
+## 🛠️ Geri Bildirim
+
+Hata bulursanız veya öneriniz varsa bildirebilirsiniz.
