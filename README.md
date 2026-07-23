@@ -16,12 +16,12 @@ Uyumlu klavye ve mouse yazılımları için hazırlanmış Türkçe dil yaması.
 Driver’ın kurulu olduğu klasöre gidin  
 (Örn: `C:\Program Files (x86)\Redragon...`)
 
-`Cfg` dosyasını Not Defteri ile açın ve aşağıdaki satırı bulun ve satırın en sonunua bu kodu ekleyin: `Lang3=Türkçe,tr`
+`Cfg` dosyasını Not Defteri ile açın ve aşağıdaki satırı bulun ve satırın en sonunua bu kodu ekleyin: `Lang3=Turkce,tr`
 
 ```ini
 Lang1=English,en
 Lang2=简体中文,sc
-Lang3=Türkçe,tr
+Lang3=Turkce,tr
 ```
 
 Dosyayı kaydedip kapatın.
